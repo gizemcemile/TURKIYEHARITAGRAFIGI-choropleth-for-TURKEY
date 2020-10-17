@@ -1,2 +1,2 @@
-Veri setini TUIK sitesinden alıp düzenledim. Önemli olan şey veri setinizi doğru şekilde düzenlemek. Benim birden fazla yıla ait verim vardı. 2008'den 2012'ye kadar iller için 81 il sralanmıştı. Her yıla ait il bilgisinin "id" si aynı olacak seçilde veri setini düzenledim. Örneğin, Adana'nın "id" si her yıl 1 e eşitti. .json ile
- biten harita bilgilerini tutan dosyadaki id lerle benim düzenlediğim veri setinin id' lerinin eşleşmesi şart. 
+Veri setini TUIK sitesinden alıp düzenledim. Önemli olan şey veri setinizi doğru şekilde düzenlemek. Benim birden fazla yıla ait verim vardı. 2008'den 2012'ye kadar iller için 81 il sralanmıştı. Her yıla ait il bilgisinin "id" si aynı olacak seçilde veri setini düzenledim. Örneğin, Adana'nın "id" si her yıl için 1' e eşitti. .json ile
+ biten harita bilgilerini tutan dosyadaki "id" lerle benim düzenlediğim veri setinin "id" lerinin eşleşmesi şart. 
